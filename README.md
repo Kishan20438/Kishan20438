@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kishan Verma and I'm a Software Engineer, from Chennai</h2>
+<h2 align="left">Hi 👋! My name is Kishan Verma and I'm a Software Developer, </h2>
 
 ###
 
