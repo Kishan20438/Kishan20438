@@ -55,7 +55,8 @@
 ###
 
 <br clear="both">
+## Play my Snake game 🎮
 
-<img src="https://snake-games-nu.vercel.app/" alt="Games" />
+[![Play Snake](https://img.shields.io/badge/Play-Snake-green?logo=gamepad)](https://snake-games-nu.vercel.app/)
 
 ###
