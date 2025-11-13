@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://kishan-verma.vercel.app/" alt="Games" />
+<img src="https://snake-games-nu.vercel.app/" alt="Games" />
 
 ###
