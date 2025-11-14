@@ -55,7 +55,8 @@
 ###
 
 <br clear="both">
-## Play my Snake game 🎮
+
+<h3>## Hello! Play my Snake game 🎮</h3>
 
 <a href="https://snake-games-nu.vercel.app">
   <img src="snake.png" alt="Play Snake" width="700" height="200">
