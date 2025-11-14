@@ -58,7 +58,7 @@
 ## Play my Snake game 🎮
 
 <a href="https://snake-games-nu.vercel.app">
-  <img src="snake.png" alt="Play Snake" width="850" height="450">
+  <img src="snake.png" alt="Play Snake" width="850" height="350">
 </a>
 
 
